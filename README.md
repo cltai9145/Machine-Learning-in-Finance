@@ -57,8 +57,8 @@ Machine Learning in Finance 2018/08 Timezone Group 6 - A
 
 We would like to express our deepest gratitude to Mr. Jacques Francois Joubert for his guidance and lecture. We also referred to Backtrader and Pyfolio repositories on Github to build our project. The links are listed below:
 
-Backtrader – see https://github.com/backtrader/backtrader
-Pyfolio – see https://github.com/quantopian/pyfolio
+* Backtrader – see https://github.com/backtrader/backtrader
+* Pyfolio – see https://github.com/quantopian/pyfolio
 
 ## License
 
