@@ -1,5 +1,5 @@
 # Machine Learning in Finance 
-# Groupwork Assignment Submission 3: Modeling and Strategy Development
+## Trading Strategy Development
 
 Date: 19 Nov 2018
 
@@ -44,26 +44,3 @@ Packages can be installed by running the following command in the terminal (proj
 * This program was built by using Windows 10.
 * Python 3.6.6 was used.
 * Tested successfully on Windows 10.
-
-## Authors
-
-Machine Learning in Finance 2018/08 Timezone Group 6 - A
-
-* Tai Chun Long
-* Chi Khanh Ta
-* Marcin Majchrzak
-
-## Acknowledgments
-
-We would like to express our deepest gratitude to Mr. Jacques Francois Joubert for his guidance and lecture. We also referred to Backtrader and Pyfolio repositories on Github to build our project. The links are listed below:
-
-* Backtrader – see https://github.com/backtrader/backtrader
-* Pyfolio – see https://github.com/quantopian/pyfolio
-
-## License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
