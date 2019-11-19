@@ -3,7 +3,7 @@
 
 Date: 19 Nov 2018
 
-## Description testing
+## Description
 
 Recently, Artificial Neural Networks (ANNs) have been widely applied to financial type problems such as trend direction and price prediction. The project utilizes a few machine learning algorithms to run the model. Some of them are feed-forward Artificial Neural Network (ANN), Long Short-Term Memory (LSTM), Support Vector Machine (SVM) and Naive Bayes. The best model that gives the highest score on a few performance metrics will be used to run the trading process. For instance, the Naïve Bayes model will predict stock prices by fitting featured engineering techniques or other technical indicators into the model. Some of the input features includes Simple Moving Average (SMA), Moving Average Convergence Divergence (MACD), Exponential Moving Average (EMA), Relative Strength Index (RSI), Momentum (MOM), Rate of change (ROC) and other time series factors. The output of the model is used as signals and then imported to the ‘Backtrader’ python backtesting system. The results of the backtesting process are analyzed using ‘Pyfolio’, a Python library for performance and risk analysis of financial portfolios. 
 
